@@ -1,4 +1,4 @@
-This repository showcases my projects focused on Business Intelligence and Data Analytics. It includes data-driven solutions and dashboards developed using tools such as Power BI, Tableau, Excel, and SQL. Each project aims to deliver actionable insights and improve decision-making through effective data visualization and analysis.
+This repository showcases my projects focused on Business Intelligence and Data Analytics. It includes data-driven solutions and dashboards developed using tools such as Power BI, Tableau, Advanced Excel, and SQL. Each project aims to deliver actionable insights and improve decision-making through effective data visualization and analysis.
 
 Projects Included:
 
